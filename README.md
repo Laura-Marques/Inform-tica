@@ -1,2 +1,3 @@
-# Inform-tica
+# Informatica
 Trabalhos escolares
+## Primeira tarefa: Apresentação
